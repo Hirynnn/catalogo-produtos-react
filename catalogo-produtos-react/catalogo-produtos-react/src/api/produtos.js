@@ -16,6 +16,7 @@ export const createProduto = (data) => api.post("/produtos", data);
 // Atualizar produto
 export const updateProduto = (id, data) => api.put(`/produtos/${id}`, data);
 
+
 // Deletar produto
 export const deleteProduto = (id) => api.delete(`/produtos/${id}`);
 
