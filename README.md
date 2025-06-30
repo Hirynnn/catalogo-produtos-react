@@ -49,6 +49,4 @@ Este projeto foi desenvolvido sem o uso de bibliotecas externas para gerenciamen
 
 ---
 
-## Autor
 
-Projeto desenvolvido por [Seu Nome] para avaliação acadêmica.
